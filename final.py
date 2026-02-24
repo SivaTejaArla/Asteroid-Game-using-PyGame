@@ -6,6 +6,7 @@ pygame.mixer.pre_init()
 pygame.init()              
 
 
+
 # init pygame
 pygame.init()                      
 fps = pygame.time.Clock()
